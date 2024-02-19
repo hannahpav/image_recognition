@@ -1,4 +1,4 @@
-# image_recognition
+# Image Recognition
 ISOMAP and PCA Techniques
 
 ### Order of Faces using ISOMAP
